@@ -6,15 +6,30 @@ body {
 /* ------------------------------------- header  */
 
 .not-high{
-    height: 12rem;
-    width: 90%;
-    background-image: url('/images/header-image.jpg');
+    height: 15rem;
+    width: 100%;
+    /* background-image: url('/images/header-image.jpg');
+    background-size: cover ;*/
+}
+
+.header-image{
+    background: url('/images/header-image.jpg') center center no-repeat;
     background-size: cover ;
+    /* width: 60%; */
+}
+
+.header-cover{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.4;
 }
 
 .case-header-text{
-    width: 60%;
+    width: 70%;
     color: white;
+    opacity: none;
+    /* margin-bottom: 40%; */
 }
 
 /* ------------------------------------ main section */
@@ -22,4 +37,18 @@ body {
 .customer{
     height: 20rem;
     background-color: lightblue;
+}
+
+.customer-cards{
+    width: 100%;
+    height: 100%;
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.customer-card-header{
+    width: 100%;
+    height: 6rem;
+    left: 0;
+    top: 0;
 }
