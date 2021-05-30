@@ -35,15 +35,15 @@ body {
 /* ------------------------------------ main section */
 
 .customer{
-    height: 20rem;
-    background-color: lightblue;
+    /* height: 20rem; */
+    /* background-color: lightblue; */
 }
 
 .customer-cards{
     width: 100%;
     height: 100%;
-    padding-left: 0!important;
-    padding-right: 0!important;
+    /* padding-left: 0!important;
+    padding-right: 0!important; */
 }
 
 .pro-website-guide{
@@ -52,7 +52,18 @@ body {
     height: 6rem;
 }
 
-.customer-card-header{
+.studio-44{
+    width:60%;
+    margin: 10% 20%;
+    }
+
+.first-customer-card-header{
+    width: 100%;
+    background-color: #546e7a;
+    height: 6rem;
+
+}
+.second-customer-card-header{
     width: 60%;
     margin: 10% 20%;
     /* height: 60%; */
@@ -61,3 +72,14 @@ body {
     
 }
 
+.link{
+    text-decoration: none;
+    color: #83c8e2; 
+    font-weight:600;
+}
+
+.card-btn{
+    background-color: #4eb246;
+    color: white;
+    /* text-align: left; */
+}
