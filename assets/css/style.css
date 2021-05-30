@@ -47,8 +47,8 @@ body {
 }
 
 .pro-website-guide{
-    width: 60%;
-    margin: 10% 20%;
+    width: 55%;
+    margin: 10% 25%;
     /* height: 60%; */
     /* left: 0;
     top: 0; */
@@ -73,6 +73,17 @@ body {
     /* object-position: center; */
 }
 
+.evans-creative{
+    width: 30%;
+    margin: 10% 25%;
+}
+
+.worcester{
+    width: 30%;
+    margin-top: 8%;
+    margin-left: 30%;
+}
+
 .first-customer-card-header{
     width: 100%;
     background-color: #546e7a;
@@ -95,6 +106,18 @@ body {
     width: 100%;
     background-color: #639782;
     height: 8rem;
+}
+
+.fifth-customer-card-header{
+    width: 100%;
+    background-color: #144773;
+    height: 8rem;
+}
+
+.sixth-customer-card-header{
+    width: 100%;
+    height: 8rem;
+    background-color: #123e4b;
 }
 
 
