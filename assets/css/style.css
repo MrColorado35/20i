@@ -47,30 +47,56 @@ body {
 }
 
 .pro-website-guide{
-    width: 100%;
-    background-color: #132080;
-    height: 6rem;
-}
-
-.studio-44{
-    width:60%;
-    margin: 10% 20%;
-    }
-
-.first-customer-card-header{
-    width: 100%;
-    background-color: #546e7a;
-    height: 6rem;
-
-}
-.second-customer-card-header{
     width: 60%;
     margin: 10% 20%;
     /* height: 60%; */
     /* left: 0;
     top: 0; */
-    
 }
+.studio-44{
+    width:40%;
+    margin-left: 25%;
+    margin-top: 8%;
+    max-height: 60%;
+    }
+
+.avid-panda{
+    width: 40%;
+    margin: 8% 25%;
+    max-height: 50%;
+    /* background-color: #9024b4; */
+}
+
+.outdoor-ceremonies{
+    width: 70%;
+    margin: 10% 20%;
+    /* object-position: center; */
+}
+
+.first-customer-card-header{
+    width: 100%;
+    background-color: #546e7a;
+    height: 8rem;
+
+}
+
+.second-customer-card-header{
+    width: 100%;
+    background-color: #132080;
+    height: 8rem;
+}
+
+.third-customer-card-header{
+    background-color: #9024b4;
+    width: 100%;
+}
+
+.forth-customer-card-header{
+    width: 100%;
+    background-color: #639782;
+    height: 8rem;
+}
+
 
 .link{
     text-decoration: none;
