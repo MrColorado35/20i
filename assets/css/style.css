@@ -46,9 +46,18 @@ body {
     padding-right: 0!important;
 }
 
-.customer-card-header{
+.pro-website-guide{
     width: 100%;
+    background-color: #132080;
     height: 6rem;
-    left: 0;
-    top: 0;
 }
+
+.customer-card-header{
+    width: 60%;
+    margin: 10% 20%;
+    /* height: 60%; */
+    /* left: 0;
+    top: 0; */
+    
+}
+
