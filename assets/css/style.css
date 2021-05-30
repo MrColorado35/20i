@@ -1,5 +1,5 @@
 body {
-    background-color: whitesmoke;
+    background-color: #ffffff;
 }
 
 
@@ -80,8 +80,8 @@ body {
 
 .worcester{
     width: 30%;
-    margin-top: 8%;
-    margin-left: 30%;
+    margin-top: 9%;
+    margin-left: 35%;
 }
 
 .first-customer-card-header{
@@ -100,6 +100,7 @@ body {
 .third-customer-card-header{
     background-color: #9024b4;
     width: 100%;
+    height: 8rem;
 }
 
 .forth-customer-card-header{
@@ -131,4 +132,18 @@ body {
     background-color: #4eb246;
     color: white;
     /* text-align: left; */
+}
+
+
+/* ---------------------------------section sugestions */
+#sugestions{
+    min-height: 20rem;
+    background-color: #f6f6f6;
+
+}
+
+/* ------------------------------------- footer */
+#footer{
+    min-height: 20rem;
+    background-color: #ffffff;
 }
