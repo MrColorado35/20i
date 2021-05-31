@@ -4,6 +4,10 @@ body {
 
 
 /* ------------------------------------- header  */
+.no-padding-left{
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
 
 .not-high{
     height: 15rem;
@@ -15,7 +19,6 @@ body {
 .header-image{
     background: url('/images/header-image.jpg') center center no-repeat;
     background-size: cover ;
-    /* width: 60%; */
 }
 
 .header-cover{
@@ -34,10 +37,29 @@ body {
 
 /* ------------------------------------ main section */
 
+/* .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
 .customer{
     /* height: 20rem; */
     /* background-color: lightblue; */
 }
+
+/* .customer-logo-img{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/worcester-studio.png");
+    height: 50%;
+
+  /* Position and center the image to scale nicely on all screens */
+  /* background-position: center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+} */
+
 
 .customer-cards{
     width: 100%;
@@ -141,15 +163,19 @@ body {
     background-color: #f6f6f6;
 }
 
+/* #small-recommend, */
 #recommend{
-    width: 80%;
-    margin: 10% 8%;
+    width: 60%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 0;
 }
 
 #left-or-top{
     width: 70%;
     margin-top: 15%;
-    margin-left: 20%;
+    margin-left: 25%;
+    margin-right: 0;
 }
 
 
