@@ -139,8 +139,20 @@ body {
 #sugestions{
     min-height: 20rem;
     background-color: #f6f6f6;
-
 }
+
+#recommend{
+    width: 80%;
+    margin: 10% 8%;
+}
+
+#left-or-top{
+    width: 70%;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+
 
 /* ------------------------------------- footer */
 #footer{
