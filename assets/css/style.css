@@ -159,3 +159,8 @@ body {
     min-height: 20rem;
     background-color: #ffffff;
 }
+
+#smiley{
+    width: 10%;
+    margin-top: 10%;
+}
