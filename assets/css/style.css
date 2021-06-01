@@ -1,7 +1,17 @@
+/* ----------------------------- General */
+
 body {
     background-color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
 }
 
+.wide{
+    width: 100%;
+}
+
+.thick{
+    font-weight: 600;
+}
 
 /* ------------------------------------- header  */
 .no-padding-left{
@@ -36,6 +46,11 @@ body {
 }
 
 /* ------------------------------------ main section */
+
+.location-btn{
+    margin-bottom: 2%;
+    margin-left: 1%;
+}
 
 /* .centered {
   position: absolute;
@@ -186,8 +201,13 @@ body {
 }
 
 /* -----------------small */
-#small-recommend {
+#small-sugestions{
+    background-color: #f6f6f6;
+}
 
+#small-recommend {
+    width: 100%;
+    text-align: center;
 }
 
 /* ------------------------------------- footer */
