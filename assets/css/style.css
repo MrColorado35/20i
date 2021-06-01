@@ -57,6 +57,9 @@ body {
 }
 
 /* ------------------------------------ main section */
+.shadow{
+    box-shadow: 10px 8px#e6e6e6;
+}
 
 .location-btn{
     margin-bottom: 2%;
