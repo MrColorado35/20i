@@ -11,7 +11,17 @@ body {
 }
 
 .thick{
-    font-weight: 600;
+    font-weight: 700;
+}
+
+.super-thick{
+    font-weight: 900;
+}
+
+.link{
+    text-decoration: none;
+    color: #1d97c9; 
+    font-weight:600;
 }
 
 /* ------------------------------------- header  */
@@ -102,19 +112,19 @@ body {
 
 .outdoor-ceremonies{
     width: 60%;
-    margin: 15% 20%;
+    /* margin: 15% 20%; */
     /* object-position: center; */
 }
 
 .evans-creative{
     width: 28%;
-    margin: 10% 25%;
+    /* margin: 10% 25%; */
 }
 
 .worcester{
     width: 30%;
-    margin-top: 9%;
-    margin-left: 35%;
+    /* margin-top: 9%;
+    margin-left: 35%; */
 }
 
 .first-customer-card-header{
@@ -155,11 +165,7 @@ body {
 }
 
 
-.link{
-    text-decoration: none;
-    color: #56b2d7; 
-    font-weight:600;
-}
+
 
 .link-button{
     text-decoration: none;
