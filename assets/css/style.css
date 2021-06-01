@@ -23,7 +23,7 @@ body {
 
 .link{
     text-decoration: none;
-    color: #1d97c9; 
+    color: #1a96c8; 
     font-weight:600;
 }
 
@@ -73,21 +73,26 @@ body {
 
 .studio-44{
     display: block;
-    width:35%;
+    width:30%;
     margin-left: auto;
     margin-right: auto;
-    max-height: 60%;
+    /* max-height: 60%; */
+    margin-top: 2rem;
     }
 
 .pro-website-guide{
     display: block;
     width: 55%;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
 }
 
 .avid-panda{
     width: 35%;
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: auto; */
 }
 
 .outdoor-ceremonies{
@@ -100,42 +105,42 @@ body {
 
 .worcester{
     width: 30%;
+    margin: auto;
 }
 
 .first-customer-card-header{
     /* width: 100%; */
     background-color: #546e7a;
-    height: 8rem;
-
+    height: 7rem;
 }
 
 .second-customer-card-header{
     /* width: 100%; */
     background-color: #132080;
-    height: 8rem;
+    height: 7rem;
 }
 
 .third-customer-card-header{
     background-color: #9024b4;
     /* width: 100%; */
-    height: 8rem;
+    height: 7rem;
 }
 
 .forth-customer-card-header{
     /* width: 100%; */
     background-color: #639782;
-    height: 8rem;
+    height: 7rem;
 }
 
 .fifth-customer-card-header{
     /* width: 100%; */
     background-color: #144773;
-    height: 8rem;
+    height: 7rem;
 }
 
 .sixth-customer-card-header{
     /* width: 100%; */
-    height: 8rem;
+    height: 7rem;
     background-color: #123e4b;
 }
 
