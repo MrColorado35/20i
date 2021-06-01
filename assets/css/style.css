@@ -35,8 +35,6 @@ body {
 .not-high{
     height: 15rem;
     width: 100%;
-    /* background-image: url('/images/header-image.jpg');
-    background-size: cover ;*/
 }
 
 .header-image{
@@ -54,9 +52,7 @@ body {
 .case-header-text{
     width: 70%;
     color: white;
-    opacity: none;
-    /* margin-bottom: 40%; */
-}
+    opacity: none;}
 
 /* ------------------------------------ main section */
 .shadow{
@@ -68,24 +64,9 @@ body {
     margin-left: 1%;
 }
 
-/* .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
-
-.customer{
-    /* height: 20rem; */
-    /* background-color: lightblue; */
-}
-
-
 .customer-cards{
     width: 100%;
     height: 100%;
-    /* padding-left: 0!important;
-    padding-right: 0!important; */
 }
 
 .studio-44{
@@ -93,8 +74,6 @@ body {
     width:35%;
     margin-left: auto;
     margin-right: auto;
-    /* margin-top: 10%;
-    margin-bottom: auto; */
     max-height: 60%;
     }
 
@@ -102,34 +81,23 @@ body {
     display: block;
     width: 55%;
     margin: auto;
-    /* height: 60%; */
-    /* left: 0;
-    top: 0; */
 }
 
 .avid-panda{
     width: 35%;
     margin: auto;
-    /* margin: 8% 25%;
-    max-height: 50%; */
-    /* background-color: #9024b4; */
 }
 
 .outdoor-ceremonies{
     width: 60%;
-    /* margin: 15% 20%; */
-    /* object-position: center; */
 }
 
 .evans-creative{
     width: 28%;
-    /* margin: 10% 25%; */
 }
 
 .worcester{
     width: 30%;
-    /* margin-top: 9%;
-    margin-left: 35%; */
 }
 
 .first-customer-card-header{
@@ -168,9 +136,6 @@ body {
     height: 8rem;
     background-color: #123e4b;
 }
-
-
-
 
 .link-button{
     text-decoration: none;
