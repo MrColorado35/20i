@@ -3,6 +3,7 @@
 body {
     background-color: #ffffff;
     font-family: 'Montserrat', sans-serif;
+    font-size: medium;
 }
 
 .wide{
@@ -64,17 +65,6 @@ body {
     /* background-color: lightblue; */
 }
 
-/* .customer-logo-img{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/worcester-studio.png");
-    height: 50%;
-
-  /* Position and center the image to scale nicely on all screens */
-  /* background-position: center; 
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-} */
-
 
 .customer-cards{
     width: 100%;
@@ -83,35 +73,41 @@ body {
     padding-right: 0!important; */
 }
 
+.studio-44{
+    display: block;
+    width:35%;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 10%;
+    margin-bottom: auto; */
+    max-height: 60%;
+    }
+
 .pro-website-guide{
+    display: block;
     width: 55%;
-    margin: 10% 25%;
+    margin: auto;
     /* height: 60%; */
     /* left: 0;
     top: 0; */
 }
-.studio-44{
-    width:40%;
-    margin-left: 25%;
-    margin-top: 8%;
-    max-height: 60%;
-    }
 
 .avid-panda{
-    width: 40%;
-    margin: 8% 25%;
-    max-height: 50%;
+    width: 35%;
+    margin: auto;
+    /* margin: 8% 25%;
+    max-height: 50%; */
     /* background-color: #9024b4; */
 }
 
 .outdoor-ceremonies{
-    width: 70%;
-    margin: 10% 20%;
+    width: 60%;
+    margin: 15% 20%;
     /* object-position: center; */
 }
 
 .evans-creative{
-    width: 30%;
+    width: 28%;
     margin: 10% 25%;
 }
 
