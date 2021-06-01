@@ -4,6 +4,7 @@ body {
     background-color: #ffffff;
     font-family: 'Montserrat', sans-serif;
     font-size: medium;
+    font-weight: 300;
 }
 
 .wide{
@@ -199,7 +200,7 @@ body {
 }
 
 #left-or-top{
-    width: 70%;
+    width: 60%;
     margin-top: 15%;
     margin-left: 25%;
     margin-right: 0;
