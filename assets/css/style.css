@@ -35,7 +35,6 @@ body {
 
 .not-high{
     height: 16rem;
-    /* width: 100%; */
 }
 
 .header-image{
@@ -46,14 +45,14 @@ body {
 .header-cover{
     /* width: 100%; */
     height: 100%;
-    background-color: black;
-    opacity: 0.4;
+    /* background-color: black;
+    opacity: 0.4; */
 }
 
 .case-header-text{
     width: 70%;
     color: white;
-    opacity: none;
+    padding-top: 5rem;
 }
 
 /* ------------------------------------ main section */
