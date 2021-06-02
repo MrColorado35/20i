@@ -105,41 +105,34 @@ body {
 .worcester{
     width: 30%;
     margin-top: 2rem;
-    /* margin: auto; */
 }
 
 .first-customer-card-header{
-    /* width: 100%; */
     background-color: #546e7a;
     height: 7rem;
 }
 
 .second-customer-card-header{
-    /* width: 100%; */
     background-color: #132080;
     height: 7rem;
 }
 
 .third-customer-card-header{
     background-color: #9024b4;
-    /* width: 100%; */
     height: 7rem;
 }
 
 .forth-customer-card-header{
-    /* width: 100%; */
     background-color: #639782;
     height: 7rem;
 }
 
 .fifth-customer-card-header{
-    /* width: 100%; */
     background-color: #144773;
     height: 7rem;
 }
 
 .sixth-customer-card-header{
-    /* width: 100%; */
     height: 7rem;
     background-color: #123e4b;
 }
@@ -153,7 +146,6 @@ body {
 .card-btn{
     background-color: #4eb246;
     color: white;
-    /* text-align: left; */
 }
 
 
