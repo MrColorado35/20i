@@ -104,7 +104,8 @@ body {
 
 .worcester{
     width: 30%;
-    margin: auto;
+    margin-top: 2rem;
+    /* margin: auto; */
 }
 
 .first-customer-card-header{
