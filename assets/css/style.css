@@ -162,6 +162,7 @@ body {
     margin-top: 10%;
     margin-bottom: 10%;
     margin-left: 0;
+    border-radius: 15px;
 }
 
 #left-or-top{
@@ -179,6 +180,7 @@ body {
 #small-recommend {
     width: 100%;
     text-align: center;
+    border-radius: 15px;
 }
 
 /* ------------------------------------- footer */
