@@ -148,14 +148,12 @@ body {
     color: white;
 }
 
-
 /* ---------------------------------section sugestions */
 /* -----------large */
 #sugestions{
     min-height: 20rem;
     background-color: #f6f6f6;
 }
-
 
 #recommend{
     width: 60%;
