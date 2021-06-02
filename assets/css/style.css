@@ -38,7 +38,7 @@ body {
 }
 
 .header-image{
-    background: url('/images/header-image.jpg') center center no-repeat;
+    background: url('../../images/header-image.jpg') center center no-repeat;
     background-size: cover ;
 }
 
